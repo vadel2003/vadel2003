@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vadel2003
+- I,m interested in C# programming, SQL databases and web development
+- 🌱 I’m currently learning Business Informatics
+- 📫 How to reach me on instagram: @adel.volgyi
